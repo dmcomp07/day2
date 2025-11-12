@@ -1,5 +1,6 @@
 public class Helloworld {
     public static void main(String[] args) {
-        System.out.println("सपनों की उड़ान वही भरते हैं, जो डर को पीछे छोड़ देते हैं। हर कदम पर मौका है, बस हिम्मत से आगे बढ़ने की देर है।");
+        System.out.println("Making one person smile can change the world – maybe not the whole world, but their world");
     }
 }
+
